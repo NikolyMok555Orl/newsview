@@ -1,0 +1,15 @@
+#Ignore .idea folder
+.idea
+.gradle
+*.iml
+build/
+/app/release/
+/local.properties
+.DS_Store
+/captures
+captures/
+.externalNativeBuild
+.cxx
+local.properties
+#ignore editors
+*.swp

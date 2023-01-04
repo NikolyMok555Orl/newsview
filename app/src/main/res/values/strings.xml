@@ -1,0 +1,4 @@
+<resources>
+    <string name="app_name">NewsView</string>
+    <string name="hint_search_query">Поиск</string>
+</resources>
